@@ -26,4 +26,10 @@ i Informatyki Stosowanej na Uniwersytecie Jagiellońskim
 - **lista5**
     - algorytm AES
     - generowanie kluczy do algorytmu AES
+- **lista6**
+    - szyfrowanie DES w trybie EBC
+    - szyfrowanie DES w trybie CBC
+    - szyfrowanie DES w trybie OFB
+    - padding PKCS#5
+    - atak typu padding oracle
 
