@@ -32,4 +32,9 @@ i Informatyki Stosowanej na Uniwersytecie Jagiellońskim
     - szyfrowanie DES w trybie OFB
     - padding PKCS#5
     - atak typu padding oracle
-
+- **lista7**
+    - protokół Diffiego-Helmana
+    - szybkie potęgowanie modulo
+    - test Fermata liczb pierwszych
+    - generacja kluczy dla RSA
+    - szyfrowanie przy pomocy potęgowania modulo
