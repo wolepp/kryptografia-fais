@@ -1,5 +1,7 @@
 Wykłady/**
 
+.vscode/**
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
