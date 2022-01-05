@@ -43,3 +43,10 @@ i Informatyki Stosowanej na Uniwersytecie Jagiellońskim
     - działania wewnętrzne na krzywych eliptycznych
     - twierdzenie Hassego
     - Elliptic Curve Diffie-Hellman (ECDH)
+- **lista9**
+    - funkcje skrótu
+    - kolizje w f. skrótu algorytmem rho Pollarda
+    - obliczanie HMAC
+    - podpis elektroniczny RSA
+    - kopanie Bitcoinów
+  
