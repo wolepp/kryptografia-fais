@@ -38,3 +38,8 @@ i Informatyki Stosowanej na Uniwersytecie Jagiellońskim
     - test Fermata liczb pierwszych
     - generacja kluczy dla RSA
     - szyfrowanie przy pomocy potęgowania modulo
+- **lista8**
+    - kryptografia krzywych eliptycznych
+    - działania wewnętrzne na krzywych eliptycznych
+    - twierdzenie Hassego
+    - Elliptic Curve Diffie-Hellman (ECDH)
