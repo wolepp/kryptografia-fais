@@ -49,4 +49,7 @@ i Informatyki Stosowanej na Uniwersytecie Jagiellońskim
     - obliczanie HMAC
     - podpis elektroniczny RSA
     - kopanie Bitcoinów
-  
+ - **lista10**
+    - symulacje kwantowych obwodów
+    - teleportacja stanu kwantowego 
+
