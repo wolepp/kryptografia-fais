@@ -51,5 +51,5 @@ i Informatyki Stosowanej na Uniwersytecie Jagiellońskim
     - kopanie Bitcoinów
  - **lista10**
     - symulacje kwantowych obwodów
-    - teleportacja stanu kwantowego 
+    - teleportacja stanu kwantowego
 
